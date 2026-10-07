@@ -1,0 +1,10 @@
+Step 1: Start
+Step 2: Declare Variables a,b,add,sub,mul,div,rem
+Step 4: Input a,b
+Step 5: 	add = a+b 
+		sub = a-b 
+		mul = a*b 
+		div = a/b
+		rem = a%b
+Step 6: Print add,sub,mul,div,rem
+Step 7: Stop

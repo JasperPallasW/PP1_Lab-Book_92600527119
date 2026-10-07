@@ -1,0 +1,10 @@
+Step 1: Start
+Step 2: Declare Variable a,b,c
+Step 3: Input a,b,c
+Step 5: if a > b AND a > b then 
+		Print "a is Largest"
+Step 6: else if B > C then
+		Print "b is Largest"
+Step 7: else
+		Print "c is Largest"
+Step 8: Stop

@@ -1,0 +1,7 @@
+Step 1: Start
+Step 2: Declare Variable n,sq,cb
+Step 3: Input n
+Step 4: 	sq = n*n
+		cb = n*n*n
+Step 5: Print sq,cb
+Step 6: Stop

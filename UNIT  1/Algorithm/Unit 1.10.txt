@@ -1,0 +1,9 @@
+Step 1: Start
+Step 2: Declare Variable n
+Step 3: Input n
+Step 4: Initialize sum = 0
+Step 5: While n > 0 Otherwise Go to Step 7
+Step 6: digit = n % 10, sum = sum + digit, n = n  / 10
+Step 7: Go to Step 5
+Step 7: Print sum
+Step 8: Stop

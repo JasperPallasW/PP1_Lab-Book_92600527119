@@ -1,0 +1,9 @@
+Step 1: Start
+Step 2: Declare Variable n
+Step 3: Input n
+Step 4: Initialize a = 0, b = 1, count = 0
+Step 5: While count < n Otherwise Go to Step 9
+Step 6: Print a
+Step 7: next = a + b , a = b, b = next, count = count + 1
+Step 8: Go to Step 5
+Step 9: Stop

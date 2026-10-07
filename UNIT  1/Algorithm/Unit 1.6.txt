@@ -1,0 +1,8 @@
+Step 1: Start
+Step 2: Declare Variable a,b,temp
+Step 3: Input a,b
+Step 4: 	a = b
+		b = temp
+		temp = a
+Step 5: Print a,b
+Step 6: Stop

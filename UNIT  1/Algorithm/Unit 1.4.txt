@@ -1,0 +1,6 @@
+Step 1: Start 
+Step 2: Declare Variable a,b,c,avr
+Step 3: Input a,b,c
+Step 4: avg = (a + b + c)/3
+Step 5: Print avg
+Step 6: Stop

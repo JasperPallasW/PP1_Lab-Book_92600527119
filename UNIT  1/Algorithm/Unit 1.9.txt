@@ -1,0 +1,8 @@
+Step 1: Start
+Step 2: Declare Variable n
+Step 3: Input n
+Step 4: if n % 2 == 0 then
+		Print "n is Even"
+Step 5: else
+		Print "n is Odd"
+Step 6: Stop

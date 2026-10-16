@@ -24,7 +24,7 @@ void fibonacci(int n)
 
 	for(i=1;i<=n;i++)
 	{
-		printf("%ld",a) ;
+		printf("%ld ",a) ;
 		c=a+b;
 		a=b;
 		b=c;
